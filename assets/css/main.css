@@ -538,7 +538,7 @@ section,
 }
 #Portfolio-maincathy .portfolioimg{
   position: absolute;
-  left: 5%;
+  left: 8%;
 }
 #Portfolio-maincathy .portfolioimg h1{
   color:#56554D ;
@@ -806,9 +806,9 @@ section,
   position: absolute;
   background-color: #174193;
   top: 80px ;
-  left: 150px;
+  left: 350px;
   z-index: 1;
-  padding: 8px 10px 8px 30px;
+  padding: 10px 25px;
   box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
   border-radius: 40px;
   -webkit-border-radius: 40px;
@@ -817,15 +817,15 @@ section,
   -o-border-radius: 40px;
   color: #fff;
   font-size: 18px;
-  width: 35%;
+  display: inline-block;
 }
 .elite-research .box02{
   position: absolute;
   background-color: #174193;
-  top: 280px ;
+  top: 250px ;
   left: 50px;
   z-index: 1;
-  padding: 8px 10px 8px 30px;
+  padding: 10px 25px;
   box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
   border-radius: 40px;
   -webkit-border-radius: 40px;
@@ -834,15 +834,15 @@ section,
   -o-border-radius: 40px;
   color: #fff;
   font-size: 18px;
-  width: 35%;
+  display: inline-block;
 }
 .elite-research .box03{
   position: absolute;
   background-color: #4686FF;
-  bottom: 150px ;
+  bottom: 220px ;
   left: 150px;
   z-index: 1;
-  padding: 8px 10px 8px 30px;
+  padding: 10px 25px;
   box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
   border-radius: 40px;
   -webkit-border-radius: 40px;
@@ -851,32 +851,32 @@ section,
   -o-border-radius: 40px;
   color: #fff;
   font-size: 18px;
-  width: 35%;
+  display: inline-block;
 }
 .elite-research .box04{
   position: absolute;
-    background-color: #4686FF;
-    top: 180px;
-    right: 100px;
-    z-index: 1;
-    padding: 8px 10px 8px 30px;
-    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
-    border-radius: 50%;
-    -webkit-border-radius: 50px;
-    -moz-border-radius: 50px;
-    -ms-border-radius: 50px;
-    -o-border-radius: 50px;
-    color: #fff;
-    font-size: 18px;
-    width: 35%;
+  background-color: #4686FF;
+  top: 180px;
+  right: 220px;
+  z-index: 1;
+  padding: 10px 25px;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+  border-radius: 50%;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  -ms-border-radius: 50px;
+  -o-border-radius: 50px;
+  color: #fff;
+  font-size: 18px;
+  display: inline-block;
 }
 .elite-research .box05{
   position: absolute;
   background-color: #174193;
   bottom: 100px ;
-  right: 200px;
+  right: 300px;
   z-index: 1;
-  padding: 8px 10px 8px 30px;
+  padding: 10px 25px;
   box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
   border-radius: 40px;
   -webkit-border-radius: 40px;
@@ -885,7 +885,7 @@ section,
   -o-border-radius: 40px;
   color: #fff;
   font-size: 18px;
-  width: 35%;
+  display: inline-block;
 }
 .CTCIOverview .grid_bg{
   background-color: #F8F7F3;
@@ -1224,7 +1224,7 @@ section,
   padding: 50px;
   font-weight: 500;
   color: #648cff;
-  margin-bottom: 400px;
+  margin-bottom: 300px;
 }
 .connect:hover{
   box-shadow: 10px 8px 0px hsla(0, 0%, 64%, 0.449);
@@ -1434,81 +1434,71 @@ section,
   top: 70px ;
   left: 100px;
   z-index: 1;
-  padding: 8px 10px 8px 30px;
   font-size: 16px;
-  width: 47%;
+  display: inline-block;
+  
 }
 .elite-research .box02{
   top: 300px ;
   left: 50px;
   z-index: 1;
-  padding: 8px 10px 8px 30px;
-  font-size: 18px;
-  width: 47%;
+  font-size: 16px;
+  display: inline-block;
+  
 }
 .elite-research .box03{
-  bottom: 120px ;
+  bottom: 70px ;
   left: 320px;
   z-index: 1;
-  padding: 8px 10px 8px 30px;
-  font-size: 18px;
-  width: 47%;
+  font-size: 16px;
+  display: inline-block;
+  
 }
 .elite-research .box04{
   top: 120px;
   right: 0px;
   z-index: 1;
-  padding: 8px 10px 8px 30px;
-  font-size: 18px;
-  width: 47%;
+  font-size: 16px;
+  display: inline-block;
+  
 }
 .elite-research .box05{
   bottom: 10px ;
   right: 200px;
   z-index: 1;
-  padding: 8px 10px 8px 30px;
-  font-size: 18px;
-  width: 47%;
+  font-size: 16px;
+  display: inline-block;
+  
 }
 .cathy-research .box01{
   top: 70px ;
   left: 100px;
   z-index: 1;
-  padding: 8px 10px 8px 30px;
   font-size: 16px;
-  width: 47%;
 }
 .cathy-research .box02{
   top: 320px ;
   left: 50px;
   z-index: 1;
-  padding: 8px 10px 8px 30px;
   font-size: 18px;
-  width: 57%;
 }
 .cathy-research .box03{
   bottom: 120px ;
   left: 320px;
   z-index: 1;
-  padding: 8px 10px 8px 30px;
   font-size: 18px;
-  width: 47%;
 }
 .cathy-research .box04{
   top: 120px;
   right: 0px;
   z-index: 1;
-  padding: 8px 10px 8px 30px;
-  font-size: 18px;
-  width: 47%;
+  font-size: 16px;
 }
 .cathy-research .box05{
   bottom: -10px ;
   right: 100px;
   z-index: 1;
-  padding: 8px 10px 8px 30px;
-  font-size: 18px;
-  width: 47%;
+  font-size: 16px;
 }
 
  }
@@ -1566,82 +1556,75 @@ section,
 }
 .elite-research .box01{
   position: static;
-  padding: 8px 10px 8px 30px;
   font-size: 14px;
-  width: 73%;
   margin-bottom: 10px;
-  background-color: #4686FF;
+  display: inline-block;
+  margin-right: 10px;
 }
 .elite-research .box02{
   position: static;
-  padding: 8px 10px 8px 30px;
   font-size: 14px;
-  width: 100%;
   margin-bottom: 10px;
+  display: inline-block;
+  margin-right: 10px;
 }
 .elite-research .box03{
   position: static;
-  bottom: 0px ;
-  left: 0px;
-  padding: 8px 10px 8px 30px;
   font-size: 14px;
-  width: 68%;
   margin-bottom: 10px;
+  display: inline-block;
+  margin-right: 10px;
 }
 .elite-research .box04{
   position: static;
   z-index: 2;
-  padding: 8px 10px 8px 30px;
   font-size: 14px;
-  width: 95%;
   margin-bottom: 10px;
+  display: inline-block;
+  margin-right: 10px;
 }
 .elite-research .box05{
   position: static;
   z-index: 1;
-  padding: 8px 10px 8px 30px;
   font-size: 14px;
-  width: 95%;
+  display: inline-block;
+  margin-right: 10px;
 }
 .cathyOverview-img{
   display: none !important;
 }
 .cathy-research .box01{
   position: static;
-  padding: 8px 10px 8px 30px;
   font-size: 14px;
-  width: 73%;
+  display: inline-block;
+  margin-right: 10px;
   margin-bottom: 10px;
 }
 .cathy-research .box02{
   position: static;
-  padding: 8px 10px 8px 30px;
   font-size: 14px;
-  width: 70%;
+  display: inline-block;
+  margin-right: 10px;
   margin-bottom: 10px;
 }
 .cathy-research .box03{
   position: static;
-  bottom: 0px ;
-  left: 0px;
-  padding: 8px 10px 8px 30px;
   font-size: 14px;
-  width: 73%;
+  display: inline-block;
+  margin-right: 10px;
   margin-bottom: 10px;
 }
 .cathy-research .box04{
   position: static;
-  z-index: 2;
-  padding: 8px 10px 8px 30px;
   font-size: 14px;
-  width: 55%;
+  display: inline-block;
+  margin-right: 10px;
   margin-bottom: 10px;
 }
 .cathy-research .box05{
   position: static;
-  z-index: 1;
-  padding: 8px 10px 8px 30px;
   font-size: 14px;
-  width: 75%;
+  display: inline-block;
+  margin-right: 10px;
 }
 }
