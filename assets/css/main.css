@@ -1108,7 +1108,7 @@ section,
   font-weight: 600;
 }
 .about .content .comment a{
-  color: #648cff;
+  color: #4474FF;
   text-decoration: wavy underline red ;
 }
 
@@ -1132,7 +1132,7 @@ section,
   margin-bottom: 20px;
 }
 .stats .stats-item a{
-  color: #648cff;
+  color: #4474FF;
 }
 .stats .stats-item span {
   font-size: 36px;
@@ -1212,7 +1212,7 @@ section,
     display: block;
     width: 100%;
     font-size: 6rem;
-    color: #648cff;
+    color: #4474FF;
     height: 55px;
     margin-bottom: 20px;
 }
@@ -1223,7 +1223,7 @@ section,
   border: solid;
   padding: 50px;
   font-weight: 500;
-  color: #648cff;
+  color: #4474FF;
   margin-bottom: 300px;
 }
 .connect:hover{
